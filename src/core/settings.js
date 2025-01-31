@@ -6,7 +6,7 @@ module.exports = {
   bot: {
     info: {
       prefix: process.env.prefix || '?',
-      token: process.env.token, 
+      token: process.env.token "MTMzNDg1Nzc1OTYxNDU3MDUxOA.GwSDYi.3_uAtodI6vbNJgnu4Cp7okKU0xd9vyYs2Ncsmw", 
       invLink: 'https://discord.gg/YAqrQKS5qu',
     },
     options: {
